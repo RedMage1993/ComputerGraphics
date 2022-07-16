@@ -1,0 +1,10 @@
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\bin\Debug\mountain-landscape-cartoon-sm.bmp
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\bin\Debug\turbine.wav
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\bin\Debug\Homework_05.exe.config
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\bin\Debug\Homework_05.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\bin\Debug\Homework_05.pdb
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\obj\Debug\Homework_05.Properties.Resources.resources
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\obj\Debug\Homework_05.csproj.GenerateResource.Cache
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\obj\Debug\Homework_05.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\obj\Debug\Homework_05.pdb
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_05\Homework_05\obj\Debug\Homework_05.csprojResolveAssemblyReference.cache

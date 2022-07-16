@@ -1,0 +1,7 @@
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\bin\Release\Hw7Prac.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\bin\Release\Hw7Prac.pdb
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\obj\x86\Release\Homework_07.Form1.resources
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\obj\x86\Release\Hw7Prac.Properties.Resources.resources
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\obj\x86\Release\Hw7Prac.csproj.GenerateResource.Cache
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\obj\x86\Release\Hw7Prac.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Hw7Prac\Hw7Prac\obj\x86\Release\Hw7Prac.pdb

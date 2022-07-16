@@ -1,0 +1,31 @@
+C:\FALL2016\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.exe.config
+C:\FALL2016\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.exe
+C:\FALL2016\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.pdb
+C:\FALL2016\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.Form1.resources
+C:\FALL2016\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.Properties.Resources.resources
+C:\FALL2016\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.csproj.GenerateResource.Cache
+C:\FALL2016\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.exe
+C:\FALL2016\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.pdb
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.exe.config
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.exe
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\bin\Debug\drawpoints.pdb
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.Form1.resources
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.Properties.Resources.resources
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.csproj.GenerateResource.Cache
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.exe
+C:\FALL2016\CS480\drawpoints\drawpoints\drawpoints\obj\Debug\drawpoints.pdb
+C:\FALL2016\CS480\SERPINSKI\SERPINSKI\drawpoints\bin\Debug\drawpoints.exe.config
+C:\FALL2016\CS480\SERPINSKI\SERPINSKI\drawpoints\obj\Debug\drawpoints.exe
+C:\FALL2016\CS480\SERPINSKI\SERPINSKI\drawpoints\obj\Debug\drawpoints.pdb
+F:\LESSON 1\SERPINSKI\drawpoints\bin\Debug\drawpoints.exe.config
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.exe
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.pdb
+F:\LESSON 1\SERPINSKI\drawpoints\bin\Debug\drawpoints.exe
+F:\LESSON 1\SERPINSKI\drawpoints\bin\Debug\drawpoints.pdb
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.csprojResolveAssemblyReference.cache
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.Form1.resources
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.Properties.Resources.resources
+F:\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.csproj.GenerateResource.Cache
+F:\Lessons\LESSON 1\SERPINSKI\drawpoints\bin\Debug\drawpoints.exe.config
+F:\Lessons\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.exe
+F:\Lessons\LESSON 1\SERPINSKI\drawpoints\obj\Debug\drawpoints.pdb

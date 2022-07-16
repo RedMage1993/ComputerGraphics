@@ -1,0 +1,27 @@
+SpaceChickens
+-------------
+Character
+Sprite
+
+
+Chickens are being shot into freaking space.
+You want to collect them but your space ship is stuck in Ninja mode, so you must
+be careful and time the collection perfectly.
+
+SAVE THE CHICKENS
+
+
+
+Maybe you can use splines for power ups that fly in from the side of the screen.
+Like UFOs that are coming in and then go zig-zagging around!
+
+
+
+Background: Space, nice galaxy art, stars glowing
+Projectiles: Cute little stupid chickens
+Controller: Mouse position
+Main character: Spaceship, rotating about its center, with two big electrical fields
+on both ends.
+
+chickens must look dumb, just slowly rotating/drifting in space in a random direction
+

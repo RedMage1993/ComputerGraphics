@@ -1,0 +1,8 @@
+"quadratic bezier of the form [P1, C, P2] (where C is the control point) you can form an equivalent cubic bezier with [P1, (C*2/3 + P1 * 1/3), (C*2/3 + P2 * 1/3), P2]. "
+
+use https://msdn.microsoft.com/en-us/library/88ehxdxb(v=vs.110).aspx
+DrawBezier
+so you only need 4 points top and bottom
+
+OR use the bezier.png equation with 0 <= t <= 1 to get all the
+points in between

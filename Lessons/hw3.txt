@@ -1,0 +1,20 @@
+use textbox to get zoom square dimensions; should be 1:1 square
+
+take that length divided by pictuerbox length
+
+multiply that ratio by starting length to get zoom length
+
+also subtract/add from the offset value the x,y position of cursor in picturebox
+
+multiply that offset by the ratio
+
+---
+
+save starting image in buffer
+
+on mousemove draw square where cursor is
+update button to change dimensions
+
+keep mouse inside to keep things simple
+
+button to reset

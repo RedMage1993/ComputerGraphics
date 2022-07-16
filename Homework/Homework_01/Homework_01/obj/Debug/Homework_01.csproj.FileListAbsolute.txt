@@ -1,0 +1,35 @@
+E:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe.config
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.exe
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.pdb
+E:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe
+E:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.pdb
+E:\Homework\Homework_01\Homework_01\bin\Debug\mscorlib.dll
+E:\Homework\Homework_01\Homework_01\bin\Debug\System.Net.Http.dll
+E:\Homework\Homework_01\Homework_01\bin\Debug\System.Net.Http.xml
+E:\Homework\Homework_01\Homework_01\bin\Debug\normidna.nlp
+E:\Homework\Homework_01\Homework_01\bin\Debug\normnfc.nlp
+E:\Homework\Homework_01\Homework_01\bin\Debug\normnfd.nlp
+E:\Homework\Homework_01\Homework_01\bin\Debug\normnfkc.nlp
+E:\Homework\Homework_01\Homework_01\bin\Debug\normnfkd.nlp
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csprojResolveAssemblyReference.cache
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Form1.resources
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Properties.Resources.resources
+E:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.GenerateResource.Cache
+F:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe.config
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.exe
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.pdb
+F:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe
+F:\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.pdb
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csprojResolveAssemblyReference.cache
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Form1.resources
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Properties.Resources.resources
+F:\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.GenerateResource.Cache
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe.config
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\bin\Debug\Homework_01.pdb
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csprojResolveAssemblyReference.cache
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Form1.resources
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.Properties.Resources.resources
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.GenerateResource.Cache
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.exe
+E:\Users\Fritz\Dropbox\UNLV\FALL 2016\CS 480\Homework\Homework_01\Homework_01\obj\Debug\Homework_01.pdb
